@@ -54,6 +54,7 @@ def format_duration(seconds):
     return res_str
   
 format_duration(3662)
+
 # * For seconds = 62, your function should return 
 #     "1 minute and 2 seconds"
 # * For seconds = 3662, your function should return
